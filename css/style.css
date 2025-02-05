@@ -60,6 +60,9 @@ input:focus{
   .form-container,.profile-content{
     width: 60%;
   }
+  .profile-text p{
+    word-wrap: break-word; 
+  }
 }
 @media(max-width:450px){
   .form-container,.profile-content{
