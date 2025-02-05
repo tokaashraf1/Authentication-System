@@ -43,6 +43,14 @@ form p{
   backdrop-filter: blur(8px);
   box-shadow: rgba(13, 177, 18, 0.193) 0px 0px 0px 3px;
 }
+input{
+  border: none;
+}
+input:focus{ 
+  border: 3px solid rgba(5, 104, 8, 0.456); 
+  outline: none; 
+  box-shadow: rgba(13, 177, 18, 0.193) 0px 0px 0px 3px;
+}
 @media(max-width:950px){
   .form-container,.profile-content{
     width: 50%;
