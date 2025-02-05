@@ -3,11 +3,11 @@ Users can **register**, **log in**, and view their profile
 ## 🚀 Live Demo
 https://tokaashraf1.github.io/Authentication-System/
 
-**Register Page**
+🚀**Screenshots of Pages**
 </br>
 <img src="img/register.jpg" alt="Register Page" width="300" />
-<img src="img/register.jpg" alt="Register Page" width="300" />
-<img src="img/register.jpg" alt="Register Page" width="300" />
+<img src="img/login.jpg" alt="Register Page" width="300" />
+<img src="img/profile.jpg" alt="Register Page" width="300" />
 
 ## 🚀 Features
 - **Bootstrap** for styling.
