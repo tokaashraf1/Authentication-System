@@ -1,7 +1,10 @@
 A simple web-based authentication system using **HTML, CSS, and JavaScript**.  
 Users can **register**, **log in**, and view their profile
+## 🚀 Live Demo
+https://tokaashraf1.github.io/Authentication-System/
+
 **Register Page**
-img/register.html
+img/register.jpg
 **Login Page**
 ## 🚀 Features
 - **Bootstrap** for styling.
@@ -10,5 +13,4 @@ img/register.html
 - **Profile Page** displaying user details.
 - **Logout** functionality.
 
-## 🚀 Live Demo
-https://tokaashraf1.github.io/Authentication-System/
+
