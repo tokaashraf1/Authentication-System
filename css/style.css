@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --form-bg:rgba(255, 255, 255, 0.145);
+  --link-color:#f8b824;
+}
+body{
+  overflow: hidden;
+}
+.register-container,.login-container,.profile-container{
+  background-image: url("../img/background.jpg");
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.form-container,.profile-content{
+  width: 30%;
+  background-color: var(--form-bg);
+  min-height: 70vh;
+  backdrop-filter: blur(6px);
+}
+.profile-content img{
+width: 100px;
+}
+.form-container button ,#logoutBtn{
+color:#537e61 ;
+}
+.form-container input{
+  height: 32px;
+}
+.form-container a{
+  text-decoration: none;
+  color: var(--link-color);
+}
+form p{
+  color: rgb(194, 5, 5);
+}
+.profile-text{
+  background-color: var(--form-bg);
+  backdrop-filter: blur(8px);
+  box-shadow: rgba(13, 177, 18, 0.193) 0px 0px 0px 3px;
+}
+@media(max-width:950px){
+  .form-container,.profile-content{
+    width: 50%;
+  }
+}
+@media(max-width:768px){
+  .form-container,.profile-content{
+    width: 60%;
+  }
+}
+@media(max-width:450px){
+  .form-container,.profile-content{
+    width: 90%;
+  }
+}
