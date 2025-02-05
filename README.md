@@ -4,7 +4,7 @@ Users can **register**, **log in**, and view their profile
 https://tokaashraf1.github.io/Authentication-System/
 
 **Register Page**
-img/register.jpg
+![Register Page](img/register.jpg)
 **Login Page**
 ## 🚀 Features
 - **Bootstrap** for styling.
