@@ -5,9 +5,9 @@ https://tokaashraf1.github.io/Authentication-System/
 
 🚀**Screenshots of Pages**
 </br>
-<img src="img/register.jpg" alt="Register Page" width="300" />
-<img src="img/login.jpg" alt="Register Page" width="300" />
-<img src="img/profile.jpg" alt="Register Page" width="300" />
+<img src="img/register.jpg" alt="Register Page" width="400" />
+<img src="img/login.jpg" alt="Register Page" width="400" />
+<img src="img/profile.jpg" alt="Register Page" width="400" />
 
 ## 🚀 Features
 - **Bootstrap** for styling.
